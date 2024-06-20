@@ -1,0 +1,39 @@
+.perfis {
+    border-radius: 100%;
+    margin: auto;
+    padding: 10px;
+    height: 100%;
+    width: 15%;
+    justify-content: center;
+}
+
+#carouselExampleCaptions {
+    margin: auto;
+}
+
+#carouselExampleCaptions {
+    height: 400px; 
+    overflow: hidden; 
+}
+
+#carouselExampleCaptions .carousel-inner {
+    height: 100%; 
+}
+
+#carouselExampleCaptions img {
+    object-fit: cover; 
+    width: 100%;
+    height: 100%;
+}
+
+#carouselExampleCaptions {
+    height: auto; 
+    max-height: 400px; 
+    overflow: hidden; 
+}
+
+#carouselExampleCaptions .carousel-item img {
+    width: 100%; 
+    height: auto; 
+    object-fit: contain; 
+}
